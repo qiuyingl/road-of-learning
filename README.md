@@ -28,4 +28,4 @@
 #bootstrap
 ##在[菜鸟教程](http://www.runoob.com/)上学习bootstrap
 freecodecamp上，做完html5&css后，就是bootstrap了。习题覆盖面不广，但利于上手。所以看教程做补充。
-直接去bootstrap官网看英文说明太容易瞌睡（英文不好）。在菜鸟教程上吭哧吭哧学前半部分。**下半部分等做完freecodecamp和慕课的jq和js再看。**
+直接去bootstrap官网看英文说明太容易瞌睡（英文不好）。在菜鸟教程上吭哧吭哧学大部分。**插件部分等做完freecodecamp和慕课的jq和js再看。**
